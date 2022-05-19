@@ -1,0 +1,23 @@
+{
+  "name": "assignment_4",
+  "version": "1.0.0",
+  "description": "an assignment for the NodeJS the complete guide course on Udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "template",
+    "engine"
+  ],
+  "author": "Nikola Jacques",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

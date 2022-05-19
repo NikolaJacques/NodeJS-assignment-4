@@ -1,0 +1,4 @@
+.user-added-message {
+    display: flex;
+    flex-direction: column;
+}
